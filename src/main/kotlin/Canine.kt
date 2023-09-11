@@ -1,3 +1,0 @@
-open class Canine: Animal() {
-
-}

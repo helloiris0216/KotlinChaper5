@@ -1,4 +1,3 @@
-package kotlin
 
 import Animal
 import Hippo
@@ -12,9 +11,7 @@ fun main(args: Array<String>) {
     wolf.roam()
     wolf.sleep()
 
-    val animal: Animal = Wolf()
-    animal.eat()
-
+    // p.34
     val hippo = Hippo()
 
     val vet = Vet()

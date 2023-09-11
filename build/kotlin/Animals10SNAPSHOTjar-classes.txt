@@ -1,0 +1,1 @@
+C:\Users\admin\IntelliJProjects\HeadFirstKotlin\Animals\build\classes\kotlin\main\Animal.class;C:\Users\admin\IntelliJProjects\HeadFirstKotlin\Animals\build\classes\kotlin\main\MainKt.class
